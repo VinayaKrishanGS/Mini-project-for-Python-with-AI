@@ -1,0 +1,19 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer,Attendance
+S001,Anjali Nair,CS,85,78,74,88,92,95
+S002,Rahul Menon,CS,62,58,65,70,80,82
+S003,Sneha Kumar,ECE,91,87,89,84,90,97
+S004,Arjun Pillai,ME,45,52,48,60,55,70
+S005,Meera Thomas,CS,76,81,70,79,85,90
+S006,Vishnu Prasad,ECE,58,63,60,72,68,78
+S007,Divya Raj,CS,88,84,90,91,86,93
+S008,Akhil Sreedharan,ME,70,66,73,65,71,85
+S009,Fathima Beevi,ECE,35,42,38,55,48,64
+S010,Gokul Krishnan,CS,80,75,82,77,88,89
+S011,Athira Mohan,ME,67,71,64,74,69,88
+S012,Nikhil George,ECE,52,48,55,61,58,72
+S013,Remya Sasi,CS,94,89,92,90,95,98
+S014,Sreejith Nair,ME,73,69,77,68,72,91
+S015,Lakshmi Iyer,ECE,81,79,84,86,83,94
+S016,Abhijith Varma,CS,49,55,51,58,62,68
+S017,Nandana Das,ME,64,60,67,71,66,86
+S018,Kiran Joseph,ECE,38,44,41,50,53,61
